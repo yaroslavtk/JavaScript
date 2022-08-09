@@ -389,7 +389,7 @@ console.log(sumPositiveNumbers(-2, 5)) */
 //         console.log('Это не зимний месяц')
 // }
 
-let i = 10;
+/*let i = 10;
 
 do {
     console.log(i);
@@ -403,8 +403,8 @@ const arrObj = {
 
 };
 
-//console.log(arrObj ['a']);
+console.log(arrObj ['a']);
 
-console.log(typeof i);
+console.log(typeof i);*/
 
 
